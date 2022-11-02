@@ -1,0 +1,56 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "Minimalismo",
+        "descricao": "tatuagem, tamanho 90cm, colorido.",
+        "preco": 8.5,
+        "categoria_id": 1
+      },
+      {
+        "id": 2,
+        "nome": "Realismo",
+        "descricao": "Tatuagem, tamanho 400cm, cor preta, braço.",
+        "preco": 10.5,
+        "categoria_id": 1
+      },
+      {
+        "id": 3,
+        "nome": "Miniaturas",
+        "descricao": "Tatuagem, tamanho 100cm, colorida, preta, perna.",
+        "preco": 12.5,
+        "categoria_id": 1
+      },
+      {
+        "id": 4,
+        "nome": "Paineis",
+        "descricao": "Tatuagem, tamanho 500cm, colorida, preta, costas.",
+        "preco": 14.5,
+        "categoria_id": 1
+      },
+      {
+        "id": 5,
+        "nome": "Minimalismos combo",
+        "descricao": "Tatuagem, tamanho 500cm, colorida, preta, costas",
+        "preco": 5.5,
+        "categoria_id": 2
+      },
+      {
+        "id": 6,
+        "nome": "realismo combo",
+        "descricao": "Tatuagem, tamanho 500cm, colorida, preta, costas",
+        "preco": 7.5,
+        "categoria_id": 2
+      }
+    ],
+    "categorias": [
+      {
+        "id": 1,
+        "nome": "Tatuagens"
+      },
+      {
+        "id": 2,
+        "nome": "Realismos"
+      }
+    ]
+  }
